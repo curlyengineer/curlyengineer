@@ -1,7 +1,7 @@
 ### Hi 👋, I'm Mine Nur
 
 
- <h2>I'm a student at Süleyman Demirel Üniversity and trying to train myself as a data scientist.</h2>
+ <h2>I'm a student at Süleyman Demirel University and trying to train myself as a data scientist.</h2>
 
 - 🔭 I’m currently working on EduGames 
 - 🌱 I’m currently learning Python, R

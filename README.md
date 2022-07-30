@@ -4,9 +4,8 @@
  <h2>I'm a student at Süleyman Demirel University and trying to train myself as a data scientist.</h2>
 
 - 🔭 I’m currently working on EduGames 
-- 🌱 I’m currently learning Python, R
-- 🤔 I’m looking for help with data science, data mining, machine learning
-- 💬 Ask me about c#, Asp.Net
+- 🤔 I’m looking for help with DevOps, Cloud Systems or System Engineering 
+- 💬 Ask me about c#, Asp.Net ,MySQL 
 - 📫 How to reach me minenur.kaya[at]gmail.com
 - ⚡ Fun fact: Herbal Tea :D 
 
